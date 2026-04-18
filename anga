@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>R. Angalaeswari Portfolio</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;padding:0;background:#f4f6f8;color:#222;line-height:1.6}
+.container{max-width:900px;margin:40px auto;background:#fff;padding:40px;border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,.08)}
+h1,h2{color:#1f4e79;margin-bottom:8px}
+h1{font-size:36px;margin-top:0}
+h2{border-bottom:2px solid #e5e7eb;padding-bottom:6px;margin-top:28px}
+.subtitle{font-size:18px;color:#555;margin-bottom:20px}
+.contact{margin:16px 0;color:#444}
+.section{margin-bottom:20px}
+ul{padding-left:20px}
+.badge{display:inline-block;background:#eaf2ff;color:#1f4e79;padding:6px 10px;border-radius:20px;margin:4px;font-size:14px}
+.footer{margin-top:30px;font-size:14px;color:#666;text-align:center}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>R. Angalaeswari</h1>
+<div class="subtitle">Civil Engineer | Sustainable Design Enthusiast | Green Building Professional</div>
+<div class="contact">📍 Dindigul, Tamil Nadu, India | 📞 +91 90924 69273 | 📧 angaleswari11998nithya@gmail.com</div>
+<div class="contact">🔗 LinkedIn: linkedin.com/in/angalaeswari-rajendran-b325b316a</div>
+
+<h2>Professional Summary</h2>
+<p>Motivated and detail-oriented Civil Engineer with a strong academic background and hands-on experience in structural design, sustainable materials, green building technologies, and construction planning. Skilled in CAD drafting, Revit Architecture, project estimation, and eco-friendly construction practices.</p>
+
+<h2>Core Competencies</h2>
+<div>
+<span class="badge">Structural Planning & Design</span>
+<span class="badge">Building Estimation</span>
+<span class="badge">Green Buildings</span>
+<span class="badge">AutoCAD</span>
+<span class="badge">Revit Architecture</span>
+<span class="badge">STAAD Pro</span>
+<span class="badge">MS Office</span>
+<span class="badge">Project Coordination</span>
+</div>
+
+<h2>Education</h2>
+<ul>
+<li><strong>B.Tech Civil Engineering</strong> – Gandhigram Rural Institute, Dindigul (2020) | CGPA: 7.55</li>
+<li><strong>HSC</strong> – Annamalaiar Mills Girls Hr. Sec. School (2016) | 82.5%</li>
+<li><strong>SSLC</strong> – Annamalaiar Mills Girls Hr. Sec. School (2014) | 95%</li>
+</ul>
+
+<h2>Certifications</h2>
+<ul>
+<li>Sustainable Materials and Green Buildings – NPTEL</li>
+<li>Diploma in Renewable Energy</li>
+<li>STAAD Pro V8i</li>
+<li>Revit Architecture</li>
+<li>AutoCAD</li>
+</ul>
+
+<h2>Projects</h2>
+<ul>
+<li>Planning, analysis, design and estimation of a Hospital Building.</li>
+<li>Experimental study on Geopolymer Blocks using Fly Ash, Quarry Dust and GGBS.</li>
+</ul>
+
+<h2>Achievements</h2>
+<ul>
+<li>Second Place in AutoCAD Drawing Competition.</li>
+<li>Participated in Civil Engineering National Conferences (2018 & 2020).</li>
+<li>Workshop on Concrete Technology.</li>
+<li>NSS Camp Participant.</li>
+</ul>
+
+<h2>Languages</h2>
+<p>English, Tamil</p>
+
+<div class="footer">© 2026 R. Angalaeswari Professional Portfolio</div>
+</div>
+</body>
+</html>
